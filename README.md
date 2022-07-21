@@ -10,11 +10,15 @@ This project is an assignment for IoT course at HIT taught by Yury Yurchenko.
 
 ### Dependencies
 
+placeholder
 
 ### Installing
 
+placeholder
 
 ### Executing program
+
+placeholder
 
 ## Authors
 
